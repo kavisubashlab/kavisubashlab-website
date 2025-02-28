@@ -2,6 +2,7 @@
 name: Jesher Joshua M
 image: images/jesher-joshua.jpg
 role: Undergraduate Researcher
+affiliation: VIT University
 group: alum
 links:
   github: jesherjoshua
