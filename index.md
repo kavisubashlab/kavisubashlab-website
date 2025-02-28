@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+KaviSubash Lab focuses on advancing AI and machine learning for real-world challenges, particularly in anomaly detection, medical diagnostics, continual learning, and computer vision. Our research integrates deep learning and statistical modeling to develop intelligent systems that enhance healthcare and industrial applications. Through interdisciplinary collaboration, we aim to push the boundaries of AI and drive meaningful technological advancements.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our lab is engaged in cutting-edge projects, including AI-driven disease detection, deep learning for medical imaging, and real-time anomaly detection in healthcare and industry. By partnering with academic, medical, and industry experts, we bridge the gap between research and real-world implementation, creating impactful and innovative AI solutions.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Led by Dr. Kavitha Muthu Subash, our team consists of dedicated researchers, engineers, and students specializing in AI, machine learning, and computer vision. We foster a collaborative and innovative environment, encouraging new ideas and interdisciplinary research to develop AI-driven solutions that address global challenges.
 
 {%
   include button.html
