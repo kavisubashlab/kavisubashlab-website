@@ -1,6 +1,6 @@
 ---
 name: Jesher Joshua M
-image: images/photo.jpg
+image: images/jesher-joshua.jpg
 role: Undergraduate Researcher
 group: alum
 links:
