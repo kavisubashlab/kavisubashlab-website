@@ -1,47 +1,38 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: A data-saving and self-supervised deep learning system for continuous ischemic stroke assessment 
+  subtitle: Muthu Subash Kavitha
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Grants-in-Aid for Scientific Research, Basic Research(C), Japan Society for the Promotion of Science, Apr, 2024 - Mar, 2027
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Self Supervised AI model in plant growth analysis. 
+  subtitle: Muthu Subash Kavitha
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Joint research with the Institute of Resource Plant Science, Okayama University., Apr, 2023 - Mar, 2024
   tags:
     - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Artificial intelligence research in the field of medical and industrial big data, Exchange Program 
+  subtitle: Muthu Subash Kavitha
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Artificial Intelligence, Japan Science and Technology agency- Sakura Science Program, Sep, 2022
   repo: greenelab/lab-website-template
   tags:
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: PET image analysis by deep learning for diagnosis of Alzheimer's disease 
+  subtitle: Muthu Subash Kavitha, Takio Kurita
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Grants-in-Aid for Scientific Research Grant-in-Aid for JSPS Fellows, Grant-in-Aid for JSPS Fellows, Japan Society for the Promotion of Science, Oct, 2018 - Mar, 2021
   repo: greenelab/lab-website-template
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+
