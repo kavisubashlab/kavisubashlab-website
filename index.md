@@ -3,7 +3,7 @@
 
 # KAVITHA MUTHU SUBASH'S LAB
 
-An engaging 1-3 sentence description of your lab.
+Welcome to **KaviSubash Lab**, where we harness the power of artificial intelligence to tackle real-world challenges in healthcare, anomaly detection, and computer vision. Led by **Dr. Kavitha Muthu Subash**, an expert in AI and machine learning with over a decade of experience, our lab focuses on developing innovative solutions that enhance medical diagnostics, continual learning, and intelligent automation. Through cutting-edge research, interdisciplinary collaboration, and a commitment to technological advancement, we strive to push the boundaries of AI and create impactful solutions for a better future.
 
 {% include section.html %}
 
