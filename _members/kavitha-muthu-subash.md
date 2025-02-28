@@ -1,6 +1,6 @@
 ---
 name: Kavitha Muthu Subash
-image: images/photo.jpg
+image: images/kavitha-muthu-subash.jpg
 role: principal-investigator
 affiliation: Nagasaki University
 links:
