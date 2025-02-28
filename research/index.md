@@ -14,7 +14,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Diagnosis of osteoporosis from dental panoramic radiographs using the support vector machine method in a computer-aided system" style="rich" %}
 
 {% include section.html %}
 
