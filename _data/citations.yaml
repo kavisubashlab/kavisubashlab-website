@@ -1,174 +1,665 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1109/ACCESS.2024.3403520
+  title: An Improved Normalized Difference Vegetation Index (NDVI) Estimation Using
+    Grounded Dino and Segment Anything Model for Plant Health Classification
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Ananthakrishnan Balasundaram
+  - Alabhya Sharma
+  - Swaathy Kumaravelan
+  - Ayesha Shaik
+  - Muthu Subash Kavitha
+  publisher: IEEE Access
+  date: '2024-01-01'
+  link: https://doi.org/g86m59
+  orcid: 0000-0002-1676-561X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.3390/diagnostics13071282
+  title: A Foreground Prototype-Based One-Shot Segmentation of Brain Tumors
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Ananthakrishnan Balasundaram
+  - Muthu Subash Kavitha
+  - Yogarajah Pratheepan
+  - Dhamale Akshat
+  - Maddirala Venkata Kaushik
+  publisher: Diagnostics
+  date: '2023-03-28'
+  link: https://doi.org/g86m6b
+  orcid: 0000-0002-1676-561X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.3390/diagnostics13050918
+  title: Automated Detection and Classification of Oral Squamous Cell Carcinoma Using
+    Deep Neural Networks
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Balasundaram Ananthakrishnan
+  - Ayesha Shaik
+  - Soham Kumar
+  - S. O. Narendran
+  - Khushi Mattu
+  - Muthu Subash Kavitha
+  publisher: Diagnostics
+  date: '2023-02-28'
+  link: https://doi.org/g86m6c
+  orcid: 0000-0002-1676-561X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.3390/app13053125
+  title: 'Exploring the Capabilities of a Lightweight CNN Model in Accurately Identifying
+    Renal Abnormalities: Cysts, Stones, and Tumors, Using LIME and SHAP'
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Mohan Bhandari
+  - Pratheepan Yogarajah
+  - Muthu Subash Kavitha
+  - Joan Condell
+  publisher: Applied Sciences
+  date: '2023-02-28'
+  link: https://doi.org/g86m6d
+  orcid: 0000-0002-1676-561X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1016/j.iswa.2023.200187
+  title: Attention-effective multiple instance learning on weakly stem cell colony
+    segmentation
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Novanto Yudistira
+  - Muthu Subash Kavitha
+  - Jeny Rajan
+  - Takio Kurita
+  publisher: Intelligent Systems with Applications
+  date: '2023-02-01'
+  link: https://doi.org/g86m6f
+  orcid: 0000-0002-1676-561X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.3390/su15021399
+  title: Smart Diagnosis of Adenocarcinoma Using Convolution Neural Networks and Support
+    Vector Machines
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Balasundaram Ananthakrishnan
+  - Ayesha Shaik
+  - Shubhadip Chakrabarti
+  - Vaishnavi Shukla
+  - Dewanshi Paul
+  - Muthu Subash Kavitha
+  publisher: Sustainability
+  date: '2023-01-11'
+  link: https://doi.org/gzmb8n
+  orcid: 0000-0002-1676-561X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.3390/diagnostics13010112
+  title: Automated Bone Marrow Cell Classification for Haematological Disease Diagnosis
+    Using Siamese Neural Network
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Balasundaram Ananthakrishnan
+  - Ayesha Shaik
+  - Shivam Akhouri
+  - Paras Garg
+  - Vaibhav Gadag
+  - Muthu Subash Kavitha
+  publisher: Diagnostics
+  date: '2022-12-29'
+  link: https://doi.org/g86m6g
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ima.22743
+  title: Data imputation in deep neural network to enhance breast cancer detection
+  authors:
+  - Kanimozhi Ganesan
+  - Shanmugavadivu Pichai
+  - Muthu Subash Kavitha
+  - Masayoshi Takahashi
+  publisher: International Journal of Imaging Systems and Technology
+  date: '2022-05-02'
+  link: https://doi.org/g86m6h
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11263-022-01649-x
+  title: "Weakly-Supervised Action Localization, and Action Recognition Using Global\u2013\
+    Local Attention of 3D CNN"
+  authors:
+  - Novanto Yudistira
+  - Muthu Subash Kavitha
+  - Takio Kurita
+  publisher: International Journal of Computer Vision
+  date: '2022-08-01'
+  link: https://doi.org/g86m6j
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/cancers14153707
+  title: Deep Neural Network Models for Colon Cancer Screening
+  authors:
+  - Muthu Subash Kavitha
+  - Prakash Gangadaran
+  - Aurelia Jackson
+  - Balu Alagar Venmathi Maran
+  - Takio Kurita
+  - Byeong-Cheol Ahn
+  publisher: Cancers
+  date: '2022-07-29'
+  link: https://doi.org/g86m6k
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-021-02805-y
+  title: A robust approach for industrial small-object detection using an improved
+    faster regional convolutional neural network
+  authors:
+  - Faisal Saeed
+  - Muhammad Jamal Ahmed
+  - Malik Junaid Gul
+  - Kim Jeong Hong
+  - Anand Paul
+  - Muthu Subash Kavitha
+  publisher: Scientific Reports
+  date: '2021-12-03'
+  link: https://doi.org/g86m6m
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biopha.2021.112158
+  title: A mini-review on the impact of COVID 19 on vital organs
+  authors:
+  - Muhammad Dawood Shah
+  - Aini Simon Sumeh
+  - Muhammad Sheraz
+  - Muthu Subash Kavitha
+  - Balu Alagar Venmathi Maran
+  - Kenneth Francis Rodrigues
+  publisher: Biomedicine &amp; Pharmacotherapy
+  date: '2021-11-01'
+  link: https://doi.org/g86m6n
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00521-021-06017-3
+  title: Extensive framework based on novel convolutional and variational autoencoder
+    based on maximization of mutual information for anomaly detection
+  authors:
+  - Qien Yu
+  - Muthu Subash Kavitha
+  - Takio Kurita
+  publisher: Neural Computing and Applications
+  date: '2021-05-07'
+  link: https://doi.org/gjwhb7
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bbe.2021.10.003
+  title: Leveraging network using controlled weight learning approach for thyroid
+    cancer lymph node detection
+  authors:
+  - Muthu Subash Kavitha
+  - Novanto Yudistira
+  - Byeong-Cheol Ahn
+  - Takio Kurita
+  publisher: Biocybernetics and Biomedical Engineering
+  date: '2021-10-01'
+  link: https://doi.org/g86m6p
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3479645.3479676
+  title: Data Imputation of Brain MRI Features with Enhanced Multinomial Logistic
+    Regression for Alzheimer's Disease Classification
+  authors:
+  - ' Naganandhini'
+  - Pichai Shanmugavadivu
+  - ' Kanimozhi'
+  - Muthu Subash Kavitha
+  publisher: 6th International Conference on Sustainable Information Engineering and
+    Technology 2021
+  date: '2021-09-13'
+  link: https://doi.org/g86m6q
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/1535370220975118
+  title: A mini-review on the effects of COVID-19 on younger individuals
+  authors:
+  - Madhumitha Manivannan
+  - Manasi P Jogalekar
+  - Muthu Subash Kavitha
+  - Balu Alagar Venmathi Maran
+  - Prakash Gangadaran
+  publisher: Experimental Biology and Medicine
+  date: '2020-11-19'
+  link: https://doi.org/g86m6r
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neucom.2021.04.033
+  title: Autoencoder framework based on orthogonal projection constraints improves
+    anomalies detection
+  authors:
+  - Qien Yu
+  - Muthusubash Kavitha
+  - Takio Kurita
+  publisher: Neurocomputing
+  date: '2021-08-01'
+  link: https://doi.org/g86m6s
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10489-020-01944-5
+  title: Mixture of experts with convolutional and variational autoencoders for anomaly
+    detection
+  authors:
+  - Qien Yu
+  - Muthu Subash Kavitha
+  - Takio Kurita
+  publisher: Applied Intelligence
+  date: '2020-11-11'
+  link: https://doi.org/g86m6t
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.patrec.2021.05.023
+  title: Regularizer based on Euler characteristic for retinal blood vessel segmentation
+  authors:
+  - Lukman Hakim
+  - Muthu Subash Kavitha
+  - Novanto Yudistira
+  - Takio Kurita
+  publisher: Pattern Recognition Letters
+  date: '2021-09-01'
+  link: https://doi.org/gndwv2
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-020-64455-w
+  title: Deep learning enables automated localization of the metastatic lymph node
+    for thyroid cancer on 131I post-ablation whole-body planar scans
+  authors:
+  - MuthuSubash Kavitha
+  - Chang-Hee Lee
+  - KattakkaliSubhashdas Shibudas
+  - Takio Kurita
+  - Byeong-Cheol Ahn
+  publisher: Scientific Reports
+  date: '2020-05-08'
+  link: https://doi.org/gm2h4z
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-020-59285-9
+  title: Prediction of Sequential Organelles Localization under Imbalance using A
+    Balanced Deep U-Net
+  authors:
+  - Novanto Yudistira
+  - Muthusubash Kavitha
+  - Takeshi Itabashi
+  - Atsuko H. Iwane
+  - Takio Kurita
+  publisher: Scientific Reports
+  date: '2020-02-14'
+  link: https://doi.org/g86m6v
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2020.3001578
+  title: An Efficient Region Precise Thresholding and Direct Hough Transform in Femur
+    and Femoral Neck Segmentation Using Pelvis CT
+  authors:
+  - Young-Ji Yun
+  - Byeong-Cheol Ahn
+  - Muthu Subash Kavitha
+  - Sung-Il Chien
+  publisher: IEEE Access
+  date: '2020-01-01'
+  link: https://doi.org/g86m6w
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-15-4818-5_16
+  title: Analysis of Information Flow in Hidden Layers of the Trained Neural Network
+    by Canonical Correlation Analysis
+  authors:
+  - Keijiro Kanda
+  - Muthusubash Kavitha
+  - Junichi Miyao
+  - Takio Kurita
+  publisher: Communications in Computer and Information Science
+  date: '2020-01-01'
+  link: https://doi.org/g86m6x
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-020-68538-6
+  title: 'Author Correction: Deep learning enables automated localization of the metastatic
+    lymph node for thyroid cancer on 131I post-ablation whole-body planar scans'
+  authors:
+  - MuthuSubash Kavitha
+  - Chang-Hee Lee
+  - KattakkaliSubhashdas Shibudas
+  - Takio Kurita
+  - Byeong-Cheol Ahn
+  publisher: Scientific Reports
+  date: '2020-07-09'
+  link: https://doi.org/g86m6z
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1587/transinf.2019EDP7318
+  title: Completion of Missing Labels for Multi-Label Annotation by a Unified Graph
+    Laplacian Regularization
+  authors:
+  - Jonathan MOJOO
+  - Yu ZHAO
+  - Muthu Subash KAVITHA
+  - Junichi MIYAO
+  - Takio KURITA
+  publisher: IEICE Transactions on Information and Systems
+  date: '2020-10-01'
+  link: https://doi.org/g86m62
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-41299-9_40
+  title: Detection of One Dimensional Anomalies Using a Vector-Based Convolutional
+    Autoencoder
+  authors:
+  - Qien Yu
+  - Muthusubash Kavitha
+  - Takio Kurita
+  publisher: Lecture Notes in Computer Science
+  date: '2020-01-01'
+  link: https://doi.org/g86m63
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-15-4818-5_20
+  title: Transfer Learning by Cascaded Network to Identify and Classify Lung Nodules
+    for Cancer Detection
+  authors:
+  - Shah B. Shrey
+  - Lukman Hakim
+  - Muthusubash Kavitha
+  - Hae Won Kim
+  - Takio Kurita
+  publisher: Communications in Computer and Information Science
+  date: '2020-01-01'
+  link: https://doi.org/g86m64
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/iwcia47330.2019.8955006
+  title: Multi instance learning via deep CNN for multi-class recognition of Alzheimer's
+    disease
+  authors:
+  - Muthusubash Kavitha
+  - Novanto Yudistira
+  - Takio Kurita
+  publisher: 2019 IEEE 11th International Workshop on Computational Intelligence and
+    Applications (IWCIA)
+  date: '2019-11-01'
+  link: https://doi.org/gk4m8q
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-13-1595-4_32
+  title: "Analysis of User\u2019s Behavior Using Markov Model"
+  authors:
+  - X. Arputha Rathina
+  - M. Ponnavaikko
+  - K. M. Mehata
+  - M. S. Kavitha
+  publisher: Advances in Intelligent Systems and Computing
+  date: '2018-10-31'
+  link: https://doi.org/g86m65
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-30487-4_36
+  title: 'Hilbert Vector Convolutional Neural Network: 2D Neural Network on 1D Data'
+  authors:
+  - Nasrulloh R. B. S. Loka
+  - Muthusubash Kavitha
+  - Takio Kurita
+  publisher: Lecture Notes in Computer Science
+  date: '2019-01-01'
+  link: https://doi.org/g86m66
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-36711-4_25
+  title: Learning with Incomplete Labels for Multi-label Image Annotation Using CNN
+    and Restricted Boltzmann Machines
+  authors:
+  - Jonathan Mojoo
+  - Yu Zhao
+  - Muthusubash Kavitha
+  - Junichi Miyao
+  - Takio Kurita
+  publisher: Lecture Notes in Computer Science
+  date: '2019-01-01'
+  link: https://doi.org/g86m67
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-36802-9_55
+  title: U-Net with Graph Based Smoothing Regularizer for Small Vessel Segmentation
+    on Fundus Image
+  authors:
+  - Lukman Hakim
+  - Novanto Yudistira
+  - Muthusubash Kavitha
+  - Takio Kurita
+  publisher: Communications in Computer and Information Science
+  date: '2019-01-01'
+  link: https://doi.org/gnd64h
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:29407998
+  title: Critical texture pattern feature assessment for characterizing colonies of
+    induced pluripotent stem cells through machine learning techniques.
+  authors:
+  - Muthu Subash Kavitha
+  - Takio Kurita
+  - Byeong-Cheol Ahn
+  publisher: Computers in biology and medicine
+  date: '2018-01-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29407998
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:29281701
+  title: Deep vector-based convolutional neural network approach for automatic recognition
+    of colonies of induced pluripotent stem cells.
+  authors:
+  - Muthu Subash Kavitha
+  - Takio Kurita
+  - Soon-Yong Park
+  - Sung-Il Chien
+  - Jae-Sung Bae
+  - Byeong-Cheol Ahn
+  publisher: PloS one
+  date: '2017-12-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29281701
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICCIC.2016.7919568
+  title: Hysteresis thresholding based edge detectors for inscriptional image enhancement
+  authors:
+  - M. Sornam
+  - Muthu Subash Kavitha
+  - M. Nivetha
+  publisher: 2016 IEEE International Conference on Computational Intelligence and
+    Computing Research (ICCIC)
+  date: '2016-12-01'
+  link: https://doi.org/g86m68
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICACA.2016.7887944
+  title: Segmentation and classification of brain tumor using wavelet and Zernike
+    based features on MRI
+  authors:
+  - M. Sornam
+  - Muthu Subash Kavitha
+  - R. Shalini
+  publisher: 2016 IEEE International Conference on Advances in Computer Applications
+    (ICACA)
+  date: '2016-10-01'
+  link: https://doi.org/g86m69
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icaca.2016.7887938
+  title: An efficient morlet function based adaptive method for faster backpropagation
+    for handwritten character recognition
+  authors:
+  - M. Sornam
+  - Muthu Subash Kavitha
+  - M. Poornima Devi
+  publisher: 2016 IEEE International Conference on Advances in Computer Applications
+    (ICACA)
+  date: '2016-10-01'
+  link: https://doi.org/g86m7b
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0167504
+  title: Automated Detection of Cancer Associated Genes Using a Combined Fuzzy-Rough-Set-Based
+    F-Information and Water Swirl Algorithm of Human Gene Expression Data
+  authors:
+  - Pugalendhi Ganesh Kumar
+  - Muthu Subash Kavitha
+  - Byeong-Cheol Ahn
+  publisher: PLOS ONE
+  date: '2016-12-09'
+  link: https://doi.org/f9gtsj
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1259/dmfr.20160076
+  title: Automatic detection of osteoporosis based on hybrid genetic swarm fuzzy classifier
+    approaches
+  authors:
+  - Muthu Subash Kavitha
+  - Pugalendhi Ganesh Kumar
+  - Soon-Yong Park
+  - Kyung-Hoe Huh
+  - Min-Suk Heo
+  - Takio Kurita
+  - Akira Asano
+  - Seo-Yong An
+  - Sung-Il Chien
+  publisher: Dentomaxillofacial Radiology
+  date: '2016-09-01'
+  link: https://doi.org/f9cdjx
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0167992
+  title: Distributional Variations in the Quantitative Cortical and Trabecular Bone
+    Radiographic Measurements of Mandible, between Male and Female Populations of
+    Korea, and its Utilization
+  authors:
+  - Muthu Subash Kavitha
+  - Soon-Yong Park
+  - Min-Suk Heo
+  - Sung-Il Chien
+  publisher: PLOS ONE
+  date: '2016-12-21'
+  link: https://doi.org/f9j8x3
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.oooo.2014.11.009
+  title: Texture analysis of mandibular cortical bone on digital dental panoramic
+    radiographs for the diagnosis of osteoporosis in Korean women
+  authors:
+  - Muthu Subash Kavitha
+  - Seo-Young An
+  - Chang-Hyeon An
+  - Kyung-Hoe Huh
+  - Won-Jin Yi
+  - Min-Suk Heo
+  - Sam-Sun Lee
+  - Soon-Chul Choi
+  publisher: Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology
+  date: '2015-03-01'
+  link: https://doi.org/g7xdch
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5624/isd.2013.43.3.153
+  title: The combination of a histogram-based clustering algorithm and support vector
+    machine for the diagnosis of osteoporosis
+  authors:
+  - Muthu Subash Kavitha
+  - Akira Asano
+  - Akira Taguchi
+  - Min-Suk Heo
+  publisher: Imaging Science in Dentistry
+  date: '2013-01-01'
+  link: https://doi.org/g54dhf
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2342-12-1
+  title: Diagnosis of osteoporosis from dental panoramic radiographs using the support
+    vector machine method in a computer-aided system
+  authors:
+  - M S Kavitha
+  - Akira Asano
+  - Akira Taguchi
+  - Takio Kurita
+  - Mitsuhiro Sanada
+  publisher: BMC Medical Imaging
+  date: '2012-01-16'
+  link: https://doi.org/fxqhz5
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icsmc.2012.6377702
+  title: Automatic assessment of mandibular bone using support vector machine for
+    the diagnosis of osteoporosis
+  authors:
+  - M. S. Kavitha
+  - Takio Kurita
+  - Akira Asano
+  - Akira Taguchi
+  publisher: 2012 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+  date: '2012-10-01'
+  link: https://doi.org/g86m7c
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.2041-1626.2011.00095.x
+  title: "Computer\u2010aided measurement of mandibular cortical width on dental panoramic\
+    \ radiographs for identifying osteoporosis"
+  authors:
+  - Muthu Subash Kavitha
+  - Febriliyan Samopa
+  - Akira Asano
+  - Akira Taguchi
+  - Mitsuhiro Sanada
+  publisher: Journal of Investigative and Clinical Dentistry
+  date: '2011-08-24'
+  link: https://doi.org/cwqkhs
+  orcid: 0000-0002-1676-561X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.878101
+  title: Continuous measurements of mandibular cortical width on dental panoramic
+    radiographs for computer-aided diagnosis of osteoporosis
+  authors:
+  - M. S. Kavitha
+  - Akira Asano
+  - Akira Taguchi
+  publisher: SPIE Proceedings
+  date: '2011-03-03'
+  link: https://doi.org/chcdv6
+  orcid: 0000-0002-1676-561X
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +675,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +691,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
