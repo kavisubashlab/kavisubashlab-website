@@ -1,7 +1,7 @@
 ---
 name: Jesher Joshua M
 image: images/jesher-joshua.png
-role: Undergraduate Researcher
+role: Undergrad
 affiliation: VIT University
 group: alum
 links:
