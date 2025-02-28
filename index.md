@@ -3,7 +3,7 @@
 
 # KAVITHA MUTHU SUBASH'S LAB
 
-Welcome to **KaviSubash Lab**, where we harness the power of artificial intelligence to tackle real-world challenges in healthcare, anomaly detection, and computer vision. Led by **Dr. Kavitha Muthu Subash**, an expert in AI and machine learning with over a decade of experience, our lab focuses on developing innovative solutions that enhance medical diagnostics, continual learning, and intelligent automation. Through cutting-edge research, interdisciplinary collaboration, and a commitment to technological advancement, we strive to push the boundaries of AI and create impactful solutions for a better future.
+Welcome to **Kavitha's Lab**, where we harness the power of artificial intelligence to tackle real-world challenges in healthcare, anomaly detection, and computer vision. Led by **Dr. Kavitha Muthu Subash**, an expert in AI and machine learning with over a decade of experience, our lab focuses on developing innovative solutions that enhance medical diagnostics, continual learning, and intelligent automation. Through cutting-edge research, interdisciplinary collaboration, and a commitment to technological advancement, we strive to push the boundaries of AI and create impactful solutions for a better future.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ Welcome to **KaviSubash Lab**, where we harness the power of artificial intellig
 
 {% capture text %}
 
-KaviSubash Lab focuses on advancing AI and machine learning for real-world challenges, particularly in anomaly detection, medical diagnostics, continual learning, and computer vision. Our research integrates deep learning and statistical modeling to develop intelligent systems that enhance healthcare and industrial applications. Through interdisciplinary collaboration, we aim to push the boundaries of AI and drive meaningful technological advancements.
+Kavitha's Lab focuses on advancing AI and machine learning for real-world challenges, particularly in anomaly detection, medical diagnostics, continual learning, and computer vision. Our research integrates deep learning and statistical modeling to develop intelligent systems that enhance healthcare and industrial applications. Through interdisciplinary collaboration, we aim to push the boundaries of AI and drive meaningful technological advancements.
 
 {%
   include button.html
