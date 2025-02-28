@@ -1,10 +1,10 @@
 ---
-name: John Doe
+name: Jesher Joshua M
 image: images/photo.jpg
-role: phd
+role: Undergraduate Researcher
 group: alum
 links:
-  github: john-doe
+  github: jesherjoshua
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
